@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/aondcon/react-native-ios-user-agent/issues"
   },
-  "homepage": "https://github.com/aondcon/react-native-ios-user-agent#readme"
+  "homepage": "https://github.com/aondcon/react-native-ios-user-agent#readme",
+  "devDependencies": {
+    "react-native": "^0.55.4"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  }
 }

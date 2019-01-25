@@ -1,0 +1,26 @@
+{
+  "name": "react-native-ios-user-agent",
+  "version": "1.0.0",
+  "description": "Use to set or unset UserAgent to UIWebView(iOS).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aondcon/react-native-ios-user-agent.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "user-agent",
+    "webview",
+    "uiwebview"
+  ],
+  "author": "jaondev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aondcon/react-native-ios-user-agent/issues"
+  },
+  "homepage": "https://github.com/aondcon/react-native-ios-user-agent#readme"
+}
